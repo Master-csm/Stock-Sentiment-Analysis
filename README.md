@@ -22,7 +22,7 @@ The data source for this project is: https://www.kaggle.com/aaron7sun/stocknews
 # Results
 Following the feature extraction, for all the models trained and tested, Support Vector Machine was the most successful algorithm with the accuracy of 91.2 %
 
-![picture](C:\Users\mundl\OneDrive\Desktop)
+![](123.jpg)
 
 
 
